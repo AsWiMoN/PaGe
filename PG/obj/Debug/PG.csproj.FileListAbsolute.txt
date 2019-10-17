@@ -1,0 +1,15 @@
+D:\c_sharp\PG\PG\bin\Debug\PG.exe.config
+D:\c_sharp\PG\PG\bin\Debug\PG.exe
+D:\c_sharp\PG\PG\bin\Debug\PG.pdb
+D:\c_sharp\PG\PG\obj\Debug\PG.csprojAssemblyReference.cache
+D:\c_sharp\PG\PG\obj\Debug\MainWindow.g.cs
+D:\c_sharp\PG\PG\obj\Debug\App.g.cs
+D:\c_sharp\PG\PG\obj\Debug\PG_MarkupCompile.cache
+D:\c_sharp\PG\PG\obj\Debug\PG_MarkupCompile.lref
+D:\c_sharp\PG\PG\obj\Debug\MainWindow.baml
+D:\c_sharp\PG\PG\obj\Debug\PG.g.resources
+D:\c_sharp\PG\PG\obj\Debug\PG.Properties.Resources.resources
+D:\c_sharp\PG\PG\obj\Debug\PG.csproj.GenerateResource.cache
+D:\c_sharp\PG\PG\obj\Debug\PG.csproj.CoreCompileInputs.cache
+D:\c_sharp\PG\PG\obj\Debug\PG.exe
+D:\c_sharp\PG\PG\obj\Debug\PG.pdb
