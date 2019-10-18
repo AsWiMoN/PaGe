@@ -57,6 +57,7 @@ namespace PG
             {
                 saveToFile.Write(resultPassword.Text);
             }
+            System.Windows.Forms.MessageBox.Show("File save complete", "PG Save");
         }
 
         private void NameSurname_MouseDoubleClick(object sender, MouseButtonEventArgs e)
